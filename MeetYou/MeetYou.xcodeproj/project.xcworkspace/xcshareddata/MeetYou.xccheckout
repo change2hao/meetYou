@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6876B33D-EC9A-4E22-85AA-6CD3A4E1C4AD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MeetYou</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0B9CE2A2-13D3-4445-9935-D41959CAD84A</key>
+		<string>https://github.com/change2hao/meetYou</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MeetYou/MeetYou.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0B9CE2A2-13D3-4445-9935-D41959CAD84A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/change2hao/meetYou</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0B9CE2A2-13D3-4445-9935-D41959CAD84A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0B9CE2A2-13D3-4445-9935-D41959CAD84A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>meetYou</string>
+		</dict>
+	</array>
+</dict>
+</plist>
